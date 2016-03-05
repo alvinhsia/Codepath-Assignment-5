@@ -18,4 +18,4 @@ Optional:
 
 GIF:
 
-![codepath hw 4](https://cloud.githubusercontent.com/assets/1860265/13381989/e6c33e9c-de1e-11e5-8795-ebf911959205.gif)
+![codepath hw 5](https://github.com/alvinhsia/Codepath-Assignment-5/blob/master/Codepath%20HW%205.gif)
