@@ -1,7 +1,7 @@
 # Codepath HW 5
 Facebook custom transitions
 
-Time spent: ~3 hours
+Time spent: ~5 hours
 
 Completed user stories:
 
